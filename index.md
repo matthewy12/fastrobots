@@ -9,13 +9,14 @@ Welcome to my website where you can find my labs for this course and some inform
 
 ---
 ## About Me
-![](https://user-images.githubusercontent.com/40556671/151586467-eea87ad0-464e-4c78-8016-cf257156c7f4.jpg =250x250)
-![alt text](https://user-images.githubusercontent.com/40556671/151584000-cd3453ee-9d62-4c40-9133-2d00709f3340.jpg) 
+<img src = "https://user-images.githubusercontent.com/40556671/151586467-eea87ad0-464e-4c78-8016-cf257156c7f4.jpg" width=37% height=40%>
+<img src = "https://user-images.githubusercontent.com/40556671/151584000-cd3453ee-9d62-4c40-9133-2d00709f3340.jpg" width=62% height=40%) 
+
 Hello! My name is Matthew Yang, an udergraduate student at Cornell University studying Computer Science. I am very excited to be in ECE 4960 as I am pursuing a minor in robotics.  <br>
 I am currently a part of the Cornell Baja project team, and am involved at Emmaus Road Church and the Cornell Men's Club Volleyball Team. Outside of school I like to fish, bike, cook, and play sports.
 
 ### Contact
-Phone: (408)332-3051  <br>
+Phone: (408) 332-3051  <br>
 Email: msy35@cornell.edu
 
 
