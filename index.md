@@ -1,6 +1,6 @@
-### ECE 4960 | Design and Implementation of Fast Robots
+ECE 4960 | Design and Implementation of Fast Robots
 ---
-#####Matthew Yang | CS 2024
+#### About Me
 ---
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
