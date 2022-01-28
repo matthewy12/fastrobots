@@ -1,10 +1,14 @@
-ECE 4960 | Design and Implementation of Fast Robots
----
-#### About Me
----
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ECE 4960: 
+Design and Implementation of Fast Robots
 
-### Markdown
+---
+
+### Labs
+
+### About Me
+Hello my name is Matthew Yang...
+
+### Labs
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
