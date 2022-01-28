@@ -1,14 +1,16 @@
 ## ECE 4960: Design and Implementation of Fast Robots
-
 Matthew Yang | CS 2024
+
+---
 Welcome to my website where you can find my labs for this course and some information about me.
+
 ---
 
 ## Labs
 
-Lab 1
+[Lab 1]()
 
-### About Me
+## About Me
 Hello my name is Matthew Yang...
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
