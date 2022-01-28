@@ -15,7 +15,6 @@ I am currently a part of the Cornell Baja project team, and am involved at Emmau
 
 ### Contact
 Phone: (408)332-3051
-
 Email: msy35@cornell.edu
 
 
