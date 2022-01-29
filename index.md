@@ -9,8 +9,8 @@ Welcome to my website where you can find my labs for this course and some inform
 
 ---
 ## About Me
-<img src = "./Pics/bridgePic.jpg" style="width:400px;height:600px;">
-<img src = "./Pics/cliffPic.jpg" style="width:800px;height:600px;"> 
+<img src = "./Pics/bridgePic.jpg" style="width:335px;height:450px;">
+<img src = "./Pics/cliffPic.jpg" style="width:700px;height:450px;"> 
 
 Hello! My name is Matthew Yang, an udergraduate student at Cornell University studying Computer Science. I am very excited to be in ECE 4960 as I am pursuing a minor in robotics.  <br>
 I am currently a part of the Cornell Baja project team, and am involved at Emmaus Road Church and the Cornell Men's Club Volleyball Team. Outside of school I like to fish, bike, cook, and play sports.
