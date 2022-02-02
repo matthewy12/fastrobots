@@ -8,12 +8,13 @@ In this lab,
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y4GiyqtYUvXo
 " target="_blank"><img src="http://img.youtube.com/vi/4GiyqtYUvXo/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="264" height="198" border="10" /></a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dCXyDWD15iI
 " target="_blank"><img src="http://img.youtube.com/vi/dCXyDWD15iI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="264" height="198" border="10" /></a>
 
 <!-- https://youtu.be/4GiyqtYUvXo
-https://youtu.be/dCXyDWD15iI -->
+https://youtu.be/dCXyDWD15iI 
+-->
 
