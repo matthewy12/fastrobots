@@ -16,7 +16,9 @@ of the Artemis Nano.
 
 ### Examples
 
-1 - Blink it Up
+
+**1 - Blink it Up**
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wUHbrNhLq_I
 " target="_blank"><img src="http://img.youtube.com/vi/wUHbrNhLq_I/0.jpg" 
