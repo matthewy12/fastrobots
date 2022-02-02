@@ -16,25 +16,26 @@ of the Artemis Nano.
 
 ### Examples
 
-1. Blink it Up
+1 - Blink it Up
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wUHbrNhLq_I
 " target="_blank"><img src="http://img.youtube.com/vi/wUHbrNhLq_I/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="264" height="198" border="10" /></a>
 
 
-2. Serial
+2 - Serial
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=J-MSXkMCScc
 " target="_blank"><img src="http://img.youtube.com/vi/J-MSXkMCScc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="264" height="198" border="10" /></a>
 
-3. Analog Read
+3 - Analog Read
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KX2a_wdO4iY
 " target="_blank"><img src="http://img.youtube.com/vi/KX2a_wdO4iY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="264" height="198" border="10" /></a>
 
-4. Microphone Output
+4 - Microphone Output
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=PnzEpKTJZ9c
 " target="_blank"><img src="http://img.youtube.com/vi/PnzEpKTJZ9c/0.jpg" 
